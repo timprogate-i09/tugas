@@ -1,0 +1,42 @@
+@media (max-width: 1000px) {
+    .header-center h1{
+        margin-left: 300px;
+        font-size: large;
+        margin-top: 36px;
+    }
+
+
+    .header-right p{
+        padding:4px 10px;
+        margin-top: 24px;
+        font-size: medium;
+    }
+
+    .top-wripper h1{
+        font-size: 50px;
+    }
+
+    .top-wripper h2{
+        font-size: 36px;
+    }
+}
+@media (max-width: 670px) {
+    .header-center h1{
+        margin-left: 30px;
+        font-size: medium;
+        
+    }
+
+    .header-right p{
+        padding:4px 12px;
+        margin-top: 24px;
+    }
+
+    .top-wripper h1{
+        font-size: 36px;
+    }
+
+    .top-wripper h2{
+        font-size: 20px;
+    }
+}
